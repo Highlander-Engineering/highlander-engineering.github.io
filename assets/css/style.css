@@ -818,6 +818,23 @@ section {
   background: #2db6fa;
 }
 
+.services .service-box.blurple {
+  border-bottom: 3px solid #7289DA;
+}
+
+.services .service-box.blurple .icon {
+  color: #7289DA;
+  background: #f1f3fb;
+}
+
+.services .service-box.blurple .read-more {
+  color: #7289DA;
+}
+
+.services .service-box.blurple:hover {
+  background: #7289DA;
+}
+
 .services .service-box.orange {
   border-bottom: 3px solid #f68c09;
 }
@@ -850,6 +867,23 @@ section {
 
 .services .service-box.green:hover {
   background: #08da4e;
+}
+
+.services .service-box.classroom {
+  border-bottom: 3px solid #20A464;
+}
+
+.services .service-box.classroom .icon {
+  color: #20A464;
+  background: #e7faf1;
+}
+
+.services .service-box.classroom .read-more {
+  color: #20A464;
+}
+
+.services .service-box.classroom:hover {
+  background: #20A464;
 }
 
 .services .service-box.red {
@@ -901,6 +935,23 @@ section {
 
 .services .service-box.pink:hover {
   background: #f51f9c;
+}
+
+.services .service-box.insta {
+  border-bottom: 3px solid #E1306C;
+}
+
+.services .service-box.insta .icon {
+  color: #E1306C;
+  background: #fef5f8;
+}
+
+.services .service-box.insta .read-more {
+  color: #E1306C;
+}
+
+.services .service-box.insta:hover {
+  background: #E1306C;
 }
 
 .services .service-box:hover h3, .services .service-box:hover p, .services .service-box:hover .read-more {
