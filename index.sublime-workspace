@@ -1,0 +1,589 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"push",
+				"push_back\tvoid push_back(value_type &&__x)"
+			],
+			[
+				"last",
+				"lastX"
+			],
+			[
+				"get",
+				"getValueF"
+			],
+			[
+				"cg",
+				"cgPosSlider"
+			],
+			[
+				"ge",
+				"getValueF"
+			],
+			[
+				"draw",
+				"drawLines"
+			],
+			[
+				"stroke",
+				"stroke\tstrokeWeight"
+			],
+			[
+				"dist",
+				"distanceTraveled"
+			],
+			[
+				"algo",
+				"algorithm"
+			],
+			[
+				"bri",
+				"bridgePos"
+			],
+			[
+				"for",
+				"for\tFor Loop"
+			],
+			[
+				"fram",
+				"framerate\tframeCount"
+			],
+			[
+				"imagi",
+				"imaginary"
+			],
+			[
+				"Ima",
+				"imaginaryPart"
+			],
+			[
+				"real",
+				"realPart"
+			],
+			[
+				"imagina",
+				"imaginaryPart"
+			],
+			[
+				"ima",
+				"imaginaryPart"
+			],
+			[
+				"rea",
+				"realPart"
+			],
+			[
+				"liked",
+				"likedBy"
+			],
+			[
+				"like",
+				"likedPosts"
+			],
+			[
+				"triangl",
+				"triangular"
+			],
+			[
+				"iost",
+				"iostream\tstandard header"
+			],
+			[
+				"using",
+				"using\tnamespace"
+			],
+			[
+				"largest",
+				"largestSel"
+			],
+			[
+				"usi",
+				"using\tnamespace"
+			],
+			[
+				"math",
+				"mismatch\tfunc"
+			],
+			[
+				"f",
+				"for_\tFor Loop"
+			],
+			[
+				"stri",
+				"atomic_compare_exchange_strong\tatomic"
+			],
+			[
+				"con",
+				"contents"
+			],
+			[
+				"repo",
+				"repostedBy"
+			],
+			[
+				"nfo",
+				"nFollowing"
+			],
+			[
+				"nf",
+				"nFollowers"
+			],
+			[
+				"pu",
+				"ProcessBuilder"
+			],
+			[
+				"fish",
+				"fishAlive"
+			],
+			[
+				"width",
+				"width-180"
+			],
+			[
+				"try",
+				"tryAgain"
+			],
+			[
+				"update",
+				"updateCells"
+			],
+			[
+				"move",
+				"moveFish"
+			],
+			[
+				"arra",
+				"ArrayIndexOutOfBoundsException"
+			],
+			[
+				"ma",
+				"math.h\tstandard header"
+			],
+			[
+				"s",
+				"string.h\tstandard header"
+			],
+			[
+				"st",
+				"stdio.h\tstandard header"
+			],
+			[
+				"join",
+				"joinWordsIntoOneBigWord"
+			],
+			[
+				"sub",
+				"substring"
+			],
+			[
+				"theta",
+				"thetaValues"
+			],
+			[
+				"the",
+				"thetaValues"
+			],
+			[
+				"radi",
+				"radiusValues"
+			],
+			[
+				"roun",
+				"round\tround"
+			],
+			[
+				"framerate",
+				"framerate\tframeRate (set)"
+			],
+			[
+				"line",
+				"line\tline"
+			],
+			[
+				"round",
+				"roundAny"
+			],
+			[
+				"str",
+				"stroke\tstroke rgba"
+			],
+			[
+				"i3bar",
+				"i3bar_command"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"resourc",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resor",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: c",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere\t",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				":bash",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"viewmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 165.0,
+		"history":
+		[
+			"menu"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nsq/SJAM-Hackathon-Club/showcase/debugging-mental-illness.html",
+		"/home/nsq/SJAM-Hackathon-Club/assets/css/style.css",
+		"/home/nsq/SJAM-Hackathon-Club/showcase/sportchat.html",
+		"/home/nsq/SJAM-Hackathon-Club/showcase/crash-and-burn.html",
+		"/home/nsq/dw/Adobe Dreamweaver CS6/INSTALLING INSTRUCTIONS.txt",
+		"/home/nsq/ccc/2019/s2.cc",
+		"/home/nsq/euler/functions.h",
+		"/home/nsq/ccc/2019/s2.py",
+		"/home/nsq/ccc/2019/s1.py",
+		"/home/nsq/bruh.cc",
+		"/home/nsq/SJAM-Hackathon-Club/index.html",
+		"/home/nsq/.config/BetterDiscord/plugins/edit.plugin.js",
+		"/tmp/mozilla_nsq0/test.c",
+		"/tmp/mozilla_nsq0/test.py3",
+		"/tmp/mozilla_nsq0/script.txt",
+		"/home/nsq/o.c",
+		"/home/nsq/recovery.conf",
+		"/tmp/mozilla_nsq0/comfy.theme.css",
+		"/tmp/mozilla_nsq0/message.txt",
+		"/home/nsq/hamood.py",
+		"/home/nsq/ICS4UI/finalProject/finalProject.pde",
+		"/tmp/mozilla_nsq0/theme-1.tmTheme",
+		"/home/nsq/.config/sublime-text-3/Packages/User/xRes.tmTheme",
+		"/home/nsq/ICS4UI/finalProject/Robot.pde",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/theme/parts/tabsbar.css",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/theme/system-icons.css",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/theme/symbolic-tab-icons.css",
+		"/home/nsq/.Xresources",
+		"/home/nsq/euler/067 - Maximum path sum II/Solution067.cc",
+		"/usr/share/themes/Yaru-Blue-dark/gtk-3.0/gtk.css",
+		"/usr/share/themes/Yaru-Blue-dark/index_dark.theme",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/theme/parts/buttons.css",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/userChrome.css",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/theme/colors/dark.css",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/theme/gnome-theme.css",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/theme/parts/csd.css",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/configuration/user.js",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/theme/parts/icons.css",
+		"/home/nsq/.mozilla/firefox/38besbor.default-release/chrome/firefox-gnome-theme/theme/parts/headerbar.css",
+		"/home/nsq/euler/046 - Goldbach's other conjecture/Solution046.cc",
+		"/home/nsq/ICS4UI/cellularAutomation/cellularAutomation.pde",
+		"/home/nsq/bruh.diff",
+		"/tmp/Fibonacci_Tree/Fibonacci_Tree.pde",
+		"/tmp/Sierpinski_Triangle/Sierpinski_Triangle.pde",
+		"/tmp/libinput-gestures-nsq.lock",
+		"/tmp/Maze_Solving_Robot/Robot.pde",
+		"/tmp/Maze_Solving_Robot/Maze_Solving_Robot.pde",
+		"/home/nsq/Downloads/Merge_Step_Getting_Started/Merge_Step_Getting_Started.pde",
+		"/home/nsq/sort/sort.pde",
+		"/tmp/The_Sorting_Algorithm_Olympics/The_Sorting_Algorithm_Olympics.pde",
+		"/home/nsq/ICS4UI/.gitignore",
+		"/tmp/Rotating_Square_Rows/Row.pde",
+		"/tmp/Rotating_Square_Rows/Rotating_Square_Rows.pde",
+		"/tmp/Rotating_Square_Rows/Square.pde",
+		"/tmp/Rotating_Square_Rows/yyy_Queens_Gambit_Functions.pde",
+		"/home/nsq/euler/010 - Summation of primes/Solution010.cc",
+		"/home/nsq/euler/007 - Largest prime/Solution007.cc",
+		"/home/nsq/euler/040 - Champernowne's constant/Solution040.cc",
+		"/home/nsq/euler/067 - Maximum path sum II/p067_triangle.txt",
+		"/home/nsq/euler/018 - Maximum path sum I/Solution018.cc",
+		"/home/nsq/euler/068 - Maximum path sum II/Solution067.cc",
+		"/home/nsq/euler/025 - 1000-digit Fibonacci number/Solution025.cc",
+		"/home/nsq/ab/AsteroidBlaster/README.md",
+		"/home/nsq/.cache/.fr-glToxf/SaveTo.plugin.js",
+		"/home/nsq/.config/BetterDiscord/plugins/anti-spook.plugin.js",
+		"/home/nsq/euler/024 - Lexicographic permutations/Solution024.cc",
+		"/home/nsq/euler/013 - Large sum/Solution013.cc",
+		"/home/nsq/euler/021 - Amicable numbers/Solution021.cc",
+		"/home/nsq/euler/023 - Non-abundant sums/Solution023.cc",
+		"/home/nsq/euler/022 - Names scores/Solution022.cc",
+		"/home/nsq/euler/019 - Counting Sundays/Solution019.cc",
+		"/home/nsq/euler/020 - Factorial digit sum/Solution020.cc",
+		"/home/nsq/Traffic_Controller/Road.pde",
+		"/home/nsq/Traffic_Controller/Traffic_Controller.pde",
+		"/home/nsq/Traffic_Controller/Car.pde",
+		"/home/nsq/Rotating_Marker_Board/Marker.pde",
+		"/home/nsq/Rotating_Marker_Board/MarkerPoint.pde",
+		"/home/nsq/Rotating_Marker_Board/Rotating_Marker_Board.pde",
+		"/home/nsq/Rotating_Marker_Board/gui.pde",
+		"/home/nsq/ICS4UI/GameOfLife/GameOfLife.pde",
+		"/home/nsq/ICS4UI/GameOfLife/gui.pde",
+		"/home/nsq/ICS4UI/mandelbrot/mandelbrot.pde",
+		"/home/nsq/ICS4UI/twitter/User.pde",
+		"/home/nsq/ICS4UI/twitter/twitter.pde",
+		"/home/nsq/ICS4UI/twitter/Site.pde",
+		"/home/nsq/ICS4UI/twitter/sentences.txt",
+		"/home/nsq/ICS4UI/twitter/Post.pde",
+		"/home/nsq/ICS4UI/twitter/names.txt",
+		"/home/nsq/ICS4UI/twitter/Message.pde",
+		"/home/nsq/ICS4UI/file/User.pde",
+		"/home/nsq/ICS4UI/file/Post.pde",
+		"/home/nsq/ICS4UI/file/file.pde",
+		"/home/nsq/ICS4UI/file/Site.pde",
+		"/home/nsq/ICS4UI/file/sentences.txt",
+		"/home/nsq/ICS4UI/file/names.txt",
+		"/home/nsq/ICS4UI/file/Message.pde",
+		"/tmp/mozilla_nsq0/message-2.txt",
+		"/tmp/mozilla_nsq0/sc6ut_VEGAS_Pro_15_Patch.exe",
+		"/home/nsq/ICS4UI/minesweeper/cell.pde",
+		"/home/nsq/ICS4UI/minesweeper/board.pde",
+		"/home/nsq/ICS4UI/minesweeper/minesweeper.pde",
+		"/home/nsq/ICS4UI/minesweeper/_board.pde",
+		"/home/nsq/ICS4UI/minesweeper/file.java",
+		"/home/nsq/ICS4UI/minesweeper/_cell.pde",
+		"/home/nsq/euler/017 - Number letter counts'/Solution017.cc",
+		"/home/nsq/euler/008 - Largest product in a series/Solution008.cc",
+		"/home/nsq/euler/016 - Power digit sum/Solution016.cc",
+		"/home/nsq/euler/015 - Lattice paths/Solution015.cc",
+		"/home/nsq/euler/014 - Longest Collatz sequence/Solution014.cc",
+		"/home/nsq/euler/012 - Highly divisible triangular number/Solution012.cc",
+		"/home/nsq/euler/011 - Largest product in a grid/Solution011.cc",
+		"/home/nsq/euler/010 - Summation of primes/Solution010.s",
+		"/home/nsq/euler/009 - Special pythagorean triplet/Solution009.cc",
+		"/home/nsq/euler/001 - Multiples of 3 and 5/Solution001.cc",
+		"/home/nsq/euler/002 - Even Fibonacci numbers/Solution002.cc",
+		"/home/nsq/.config/sublime-text-3/Packages/C++/C++.sublime-syntax",
+		"/home/nsq/.config/sublime-text-3/Packages/C++ Starting Kit/C++.tmLanguage",
+		"/home/nsq/.config/sublime-text-3/Packages/C++/C++.sublime-settings",
+		"/home/nsq/bot.py",
+		"/home/nsq/.config/sublime-text-3/Packages/Discord Rich Presence/Main.sublime-menu",
+		"/home/nsq/.config/sublime-text-3/Packages/Discord Rich Presence/icons/lang-pde.png",
+		"/home/nsq/.config/sublime-text-3/Packages/C++ Starting Kit/messages/install.txt",
+		"/home/nsq/.config/sublime-text-3/Packages/Discord Rich Presence/drp.py",
+		"/home/nsq/.config/sublime-text-3/Packages/Discord Rich Presence/DiscordRichPresence.sublime-settings",
+		"/home/nsq/.config/sublime-text-3/Packages/C++ Starting Kit/C++.sublime-settings",
+		"/home/nsq/euler/003 - Largest prime factor/Solution003.cc",
+		"/home/nsq/euler/005 - Smallest multiple/Solution005.cc",
+		"/home/nsq/euler/004 - Largest palindrome product/Solution004.cc"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 83.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
