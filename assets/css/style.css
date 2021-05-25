@@ -482,6 +482,17 @@ section {
   box-shadow: 0px 5px 30px rgba(80,168,147, 0.5);
 }
 
+.hero .btn-newsletter {
+  margin-top: 30px;
+  line-height: 0;
+  padding: 15px 54px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: rgb(168, 80, 80);
+  box-shadow: 0px 5px 30px rgba(168, 80, 80, 0.5)
+}
+
 .hero .btn-get-started span {
   font-family: "Nunito", sans-serif;
   font-weight: 600;
@@ -490,6 +501,13 @@ section {
 }
 
 .hero .btn-sponsor span {
+  font-family: "Nunito", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.hero .btn-newsletter span {
   font-family: "Nunito", sans-serif;
   font-weight: 600;
   font-size: 16px;
@@ -508,11 +526,21 @@ section {
   transition: 0.3s;
 }
 
+.hero .btn-newsletter i {
+  margin-left: 5px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
 .hero .btn-get-started:hover i {
   transform: translateX(5px);
 }
 
 .hero .btn-sponsor:hover i {
+  transform: translateX(5px);
+}
+
+.hero .btn-newsletter:hover i {
   transform: translateX(5px);
 }
 
@@ -1191,7 +1219,7 @@ section {
   right: 30px;
   top: 30px;
   bottom: 30px;
-  transition: all ease-in-out 0.3s;
+  transition: all ease-in;-out 0.3s;
   z-index: 2;
   opacity: 0;
 }
