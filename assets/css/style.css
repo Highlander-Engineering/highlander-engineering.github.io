@@ -491,6 +491,7 @@ section {
   color: #fff;
   background: rgb(168, 80, 80);
   box-shadow: 0px 5px 30px rgba(168, 80, 80, 0.5)
+  outline: none
 }
 
 .hero .btn-get-started span {
@@ -2322,6 +2323,10 @@ section {
   background: #f6f9ff;
   padding: 0 0 30px 0;
   font-size: 14px;
+}
+
+.footer .footer-newsletter input {
+  outline: none;
 }
 
 .footer .footer-newsletter {
