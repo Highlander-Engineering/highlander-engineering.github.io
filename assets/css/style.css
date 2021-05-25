@@ -468,7 +468,7 @@ section {
   transition: 0.5s;
   color: #fff;
   background: #5065A8;
-  box-shadow: 0px 5px 30px rgba(65, 84, 241, 0.4);
+  box-shadow: 0px 5px 20px rgba(65, 84, 241, 0.4);
 }
 
 .hero .btn-sponsor {
@@ -479,7 +479,7 @@ section {
   transition: 0.5s;
   color: #fff;
   background: rgb(80,168,147);
-  box-shadow: 0px 5px 30px rgba(80,168,147, 0.5);
+  box-shadow: 0px 5px 20px rgba(80,168,147, 0.5);
 }
 
 .hero .btn-newsletter {
@@ -487,9 +487,9 @@ section {
   padding: 15px 54px;
   border-radius: 4px;
   transition: 0.5s;
-  color: #fff;
-  background: rgb(168, 80, 80);
-  box-shadow: 0px 5px 30px rgba(168, 80, 80, 0.5);
+  color: #5065A8;
+  background: #ebebeb;
+  box-shadow: 0px 1px 10px rgba(80, 101, 168, 0.3);
   outline: none;
 }
 
