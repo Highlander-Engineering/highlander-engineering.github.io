@@ -200,9 +200,15 @@ section {
   margin-top: 3px;
 }
 
-@media (min-width: 992px) and (max-width: 1024px) {
+@media (min-width: 1113px) and (max-width: 1400px) {
   .header .logo span {
     font-size: 16px !important;
+  }
+}
+
+@media (min-width: 991px) and (max-width: 1112px) {
+  .header .logo span {
+    font-size: 0px !important;
   }
 }
 
