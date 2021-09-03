@@ -1620,16 +1620,21 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients .clients-slider .swiper-slide img {
-  opacity: 0.5;
+  opacity: 1;
   transition: 0.3s;
+  background-repeat: no-repeat;
+  width: 169px;
+  height: auto;
+  max-height: 225px;
+  max-width: 225px;
 }
 
 .clients .clients-slider .swiper-slide img:hover {
-  opacity: 1;
+  opacity: .5;
 }
 
 .clients .clients-slider .swiper-pagination {
-  margin-top: 20px;
+  margin-top: 30px;
   position: relative;
 }
 
@@ -1644,6 +1649,7 @@ section {
 .clients .clients-slider .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #5065a8;
 }
+
 
 /*--------------------------------------------------------------
 # Recent Blog Posts
