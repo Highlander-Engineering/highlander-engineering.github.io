@@ -218,10 +218,14 @@ section {
   }
 }
 
-@media (max-width: 342px) {
-  .header .logo span {
-    font-size: 3.5vw !important;
-  }
+.short-text { display: none; }
+@media (max-width: 575px) {
+  .short-text { display: inline-block; }
+  .full-text { display: none; }
+}
+@media (max-width: 400px) {
+  .short-text { display: none; }
+  .full-text { display: none; }
 }
 
 /*--------------------------------------------------------------
