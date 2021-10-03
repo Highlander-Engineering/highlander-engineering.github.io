@@ -200,13 +200,13 @@ section {
   margin-top: 3px;
 }
 
-@media (min-width: 1113px) and (max-width: 1400px) {
+@media (min-width: 1116px) and (max-width: 1400px) {
   .header .logo span {
     font-size: 16px !important;
   }
 }
 
-@media (min-width: 991px) and (max-width: 1112px) {
+@media (min-width: 991px) and (max-width: 1116px) {
   .header .logo span {
     font-size: 0px !important;
   }
@@ -219,6 +219,10 @@ section {
 }
 
 .short-text { display: none; }
+@media (min-width: 1116px) and (max-width: 1400px) {
+  .short-text { display: inline-block; }
+  .full-text { display: none; }
+}
 @media (max-width: 575px) {
   .short-text { display: inline-block; }
   .full-text { display: none; }
