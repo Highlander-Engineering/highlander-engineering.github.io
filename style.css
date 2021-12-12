@@ -1,4 +1,4 @@
-/* Generated on: Sun Dec 12 2021 03:26:51 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Dec 12 2021 04:05:51 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2090,6 +2090,7 @@
      width: 100%;
      height: 100%;
      max-width: none;
+     border-radius: 20px;
      -o-object-fit: cover;
      object-fit: cover;
      -o-object-position: 50% 50%;
@@ -2132,6 +2133,10 @@
      text-align: center;
    }
    
+   .heading-7 {
+     margin-top: 10px;
+   }
+   
    .cards-grid-container-copy {
      display: -ms-grid;
      display: grid;
@@ -2145,6 +2150,46 @@
      text-align: left;
      -o-object-fit: fill;
      object-fit: fill;
+   }
+   
+   .heading-8 {
+     margin-top: 10px;
+   }
+   
+   .heading-9 {
+     margin-top: 10px;
+   }
+   
+   .heading-10 {
+     margin-top: 10px;
+   }
+   
+   .heading-11 {
+     margin-top: 10px;
+   }
+   
+   .heading-12 {
+     margin-top: 10px;
+   }
+   
+   .heading-13 {
+     margin-top: 10px;
+   }
+   
+   .heading-14 {
+     margin-top: 10px;
+   }
+   
+   .heading-15 {
+     margin-top: 10px;
+   }
+   
+   .heading-16 {
+     margin-top: 10px;
+   }
+   
+   .heading-17 {
+     margin-top: 10px;
    }
    
    @media screen and (min-width: 1280px) {
