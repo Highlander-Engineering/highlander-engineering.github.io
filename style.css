@@ -1,4 +1,4 @@
-/* Generated on: Mon Dec 06 2021 02:47:03 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Dec 12 2021 03:26:51 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2132,6 +2132,21 @@
      text-align: center;
    }
    
+   .cards-grid-container-copy {
+     display: -ms-grid;
+     display: grid;
+     grid-auto-columns: 1fr;
+     grid-column-gap: 40px;
+     grid-row-gap: 40px;
+     -ms-grid-columns: 0.5fr 1fr 1fr 0.5fr;
+     grid-template-columns: 0.5fr 1fr 1fr 0.5fr;
+     -ms-grid-rows: auto;
+     grid-template-rows: auto;
+     text-align: left;
+     -o-object-fit: fill;
+     object-fit: fill;
+   }
+   
    @media screen and (min-width: 1280px) {
      h1 {
        margin-bottom: 16px;
@@ -2299,6 +2314,15 @@
      .card--highlight {
        margin-bottom: 24px;
        padding: 32px;
+     }
+   
+     .image {
+       margin-top: 16px;
+     }
+   
+     .heading-7 {
+       font-size: 39px;
+       font-weight: 400;
      }
    }
    
@@ -2739,6 +2763,10 @@
      .cards-grid-container {
        grid-column-gap: 20px;
      }
+   
+     .cards-grid-container-copy {
+       grid-column-gap: 20px;
+     }
    }
    
    @media screen and (max-width: 767px) {
@@ -3137,6 +3165,16 @@
        -ms-grid-rows: auto auto auto;
        grid-template-rows: auto auto auto;
      }
+   
+     .cards-grid-container-copy {
+       max-width: none;
+       -ms-grid-row-align: stretch;
+       align-self: stretch;
+       -ms-grid-columns: 1fr;
+       grid-template-columns: 1fr;
+       -ms-grid-rows: auto auto auto;
+       grid-template-rows: auto auto auto;
+     }
    }
    
    @media screen and (max-width: 479px) {
@@ -3243,6 +3281,15 @@
        -ms-grid-columns: 1fr;
        grid-template-columns: 1fr;
      }
+   
+     .cards-grid-container-copy {
+       margin-right: 0px;
+       margin-left: 0px;
+       padding-top: 20px;
+       padding-bottom: 20px;
+       -ms-grid-columns: 1fr;
+       grid-template-columns: 1fr;
+     }
    }
    
    #w-node-_4a34563e-e940-7dc6-66d7-4e18d865a780-c184a57a {
@@ -3279,28 +3326,6 @@
    }
    
    #w-node-_68f6b8db-80e1-1ecd-e31a-0dec36d6f7ba-c184a57a {
-     -ms-grid-row: span 2;
-     grid-row-start: span 2;
-     -ms-grid-row-span: 2;
-     grid-row-end: span 2;
-     -ms-grid-column: span 1;
-     grid-column-start: span 1;
-     -ms-grid-column-span: 1;
-     grid-column-end: span 1;
-   }
-   
-   #w-node-_20057548-fc70-75ed-3264-a14b536eb96c-c184a57a {
-     -ms-grid-row: span 2;
-     grid-row-start: span 2;
-     -ms-grid-row-span: 2;
-     grid-row-end: span 2;
-     -ms-grid-column: span 1;
-     grid-column-start: span 1;
-     -ms-grid-column-span: 1;
-     grid-column-end: span 1;
-   }
-   
-   #w-node-_20057548-fc70-75ed-3264-a14b536eb984-c184a57a {
      -ms-grid-row: span 2;
      grid-row-start: span 2;
      -ms-grid-row-span: 2;
@@ -3449,28 +3474,6 @@
        -ms-grid-row-align: start;
        align-self: start;
      }
-   
-     #w-node-_22313aef-2911-a4c9-25da-657a5f49e392-c184a57a {
-       -ms-grid-row: span 1;
-       grid-row-start: span 1;
-       -ms-grid-row-span: 1;
-       grid-row-end: span 1;
-       -ms-grid-column: span 1;
-       grid-column-start: span 1;
-       -ms-grid-column-span: 1;
-       grid-column-end: span 1;
-     }
-   
-     #w-node-_22313aef-2911-a4c9-25da-657a5f49e394-c184a57a {
-       -ms-grid-row: span 1;
-       grid-row-start: span 1;
-       -ms-grid-row-span: 1;
-       grid-row-end: span 1;
-       -ms-grid-column: span 1;
-       grid-column-start: span 1;
-       -ms-grid-column-span: 1;
-       grid-column-end: span 1;
-     }
    }
    
    @media screen and (max-width: 479px) {
@@ -3551,7 +3554,14 @@
        grid-column-end: span 1;
      }
    
-     #w-node-_22313aef-2911-a4c9-25da-657a5f49e396-c184a57a {
+     #w-node-a31332d0-3676-b940-b1c1-1f5bd583d9e5-c184a57a {
+       -ms-grid-column: span 1;
+       grid-column-start: span 1;
+       -ms-grid-column-span: 1;
+       grid-column-end: span 1;
+     }
+   
+     #w-node-_209a133b-2513-d4a3-8838-48745a909aff-c184a57a {
        -ms-grid-column: span 1;
        grid-column-start: span 1;
        -ms-grid-column-span: 1;
