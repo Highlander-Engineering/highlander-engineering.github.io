@@ -7879,7 +7879,7 @@ Webflow.define('brand', module.exports = function ($) {
   }
 
   function createBadge() {
-    return 0;
+    return;
   }
 
   function ensureBrand() {
