@@ -622,6 +622,12 @@
     box-shadow: 0 2px 4px 0 rgba(83, 6, 11, 0.08);
   }
   
+  .placeholder {
+    height: 200;
+    overflow: auto;
+    padding: 1em;
+    margin: auto;
+  }
    .card_image {
      display: -webkit-box;
      display: -webkit-flex;
