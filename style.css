@@ -2192,7 +2192,7 @@ blockquote {
   -webkit-transform: translate(0px, -2px);
   -ms-transform: translate(0px, -2px);
   transform: translate(0px, -2px);
-  color: #5065a8;
+  color: #f5f5dc !important;
 }
 
 .form_input {
