@@ -15261,7 +15261,8 @@
         }, actionState || {});
       };
 
-      function getInstanceOrigin(element) { // $FlowFixMe
+      function getInstanceOrigin(element) {
+        // $FlowFixMe
         var refState =
           arguments.length > 1 && arguments[1] !== undefined
             ? arguments[1]
@@ -19273,7 +19274,8 @@
         }),
         (0, _defineProperty2['default'])(_default2, MOUSE_MOVE, {
           types: 'mousemove mouseout scroll',
-          handler: function handler(_ref8) { // $FlowFixMe
+          handler: function handler(_ref8) {
+            // $FlowFixMe
             var store = _ref8.store,
               element = _ref8.element,
               eventConfig = _ref8.eventConfig,
@@ -19447,7 +19449,8 @@
         }),
         (0, _defineProperty2['default'])(_default2, SCROLLING_IN_VIEW, {
           types: SCROLL_EVENT_TYPES,
-          handler: function handler(_ref10) { // $FlowFixMe
+          handler: function handler(_ref10) {
+            // $FlowFixMe
             var element = _ref10.element,
               store = _ref10.store,
               eventConfig = _ref10.eventConfig,
@@ -24967,4 +24970,18 @@ Webflow.require('ix2').init({
       { key: 'tiny', min: 0, max: 479 },
     ],
   },
+});
+
+// Custom JS
+const introPlay = document.querySelector('#introVd');
+const wernerPlay = document.querySelector('#wernerVd');
+const tohacksPlay = document.querySelector('#tohacksVd');
+introPlay.addEventListener('click', () => {
+  window.open('https://www.youtube.com/watch?v=L3mq5KpsIC0');
+});
+wernerPlay.addEventListener('click', () => {
+  window.open('https://www.youtube.com/watch?v=UAUGwlegA3Y');
+});
+tohacksPlay.addEventListener('click', () => {
+  window.open('https://www.youtube.com/watch?v=CHVg2SsIMew');
 });
