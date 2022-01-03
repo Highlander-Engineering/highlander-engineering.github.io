@@ -101,7 +101,7 @@ p {
 }
 
 a {
-  border-bottom: 2px solid #5065a8;
+  /* border-bottom: 2px solid #5065a8; */
   -webkit-transition: box-shadow 200ms ease, background-color 200ms ease, color 200ms ease, -webkit-transform 200ms ease;
   transition: box-shadow 200ms ease, background-color 200ms ease, color 200ms ease, -webkit-transform 200ms ease;
   transition: box-shadow 200ms ease, transform 200ms ease, background-color 200ms ease, color 200ms ease;
@@ -610,6 +610,13 @@ blockquote {
   border-radius: 8px;
   background-color: #fff;
   box-shadow: 0 2px 4px 0 rgba(83, 6, 11, 0.08);
+}
+
+.placeholder {
+  height: 200;
+  overflow: auto;
+  padding: 1em;
+  margin: auto;
 }
 
 .card_image {
